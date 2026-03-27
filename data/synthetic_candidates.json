@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Aisha Nurlanovna",
+    "age": 17,
+    "essay": "When I was 14, my school in Almaty had no computer lab. I spent three months writing letters to local businesses asking for donated laptops. Five companies said no. The sixth donated eight. I organised a coding club that still runs today. I failed many times — my first grant application was rejected twice — but I kept trying because I genuinely believe that access to technology changes life outcomes. I want to study at inVision U because I want to learn how to scale what I started.",
+    "achievements": [
+      "Founded school coding club (currently 40 members)",
+      "Regional science olympiad — 2nd place",
+      "Volunteer English tutor for refugee children"
+    ],
+    "motivation_letter": "I come from a family where no one has a university degree. My mother works two jobs; my father is disabled. Every step I have taken has required me to figure things out alone, which made me resourceful but also showed me how much harder it is without a network or mentor. inVision U represents exactly what I need: not just knowledge, but a community of people who want to build something meaningful. I do not want a degree — I want to learn how to create impact at scale.",
+    "extra_activities": ["Runs a small Instagram page teaching basic Python to high-school students", "Part-time work at a local NGO"]
+  },
+  {
+    "name": "Damir Serikuly",
+    "age": 19,
+    "essay": "I have always been interested in business and entrepreneurship. I read many books about successful entrepreneurs and I follow their advice. I believe that hard work and dedication are the keys to success. I have participated in several competitions and won some prizes. I want to develop my skills further and contribute to society in a meaningful way through innovation and leadership.",
+    "achievements": [
+      "School debate team captain",
+      "Won city-level business plan competition",
+      "4.0 GPA"
+    ],
+    "motivation_letter": "In today's rapidly evolving business landscape, it is crucial to stay ahead of the curve by continuously developing one's skill set. inVision U offers a unique opportunity to gain world-class education while being surrounded by like-minded individuals who share a passion for innovation. I am confident that the knowledge and networks I will acquire at inVision U will enable me to become a transformational leader who creates positive change in Kazakhstan and beyond. My strong academic background combined with my extracurricular involvement demonstrates my readiness to excel in this program.",
+    "extra_activities": ["Member of school student council", "Attended one startup weekend event"]
+  },
+  {
+    "name": "Zarina Bekova",
+    "age": 16,
+    "essay": "My village does not appear on most maps. We have one school, one teacher for three grades, and unreliable electricity. Last year I walked 6 km each way to attend extra math classes in the next village because I knew I needed them for university entrance. I failed my first attempt at the national exam. I studied for six more months, retook it, and scored in the top 8% of the country. I want to study at inVision U because I want to come back to my village with real tools — not just a diploma.",
+    "achievements": [
+      "National university entrance exam — top 8% on second attempt",
+      "Self-taught English (B2 level) using free YouTube resources",
+      "Organises informal tutoring sessions for younger village children"
+    ],
+    "motivation_letter": "I know I am not the candidate with the most impressive CV. I have no connections, no prestigious school name, and no extracurricular activities that require money to access. What I have is stubbornness, a very clear reason to work hard, and a specific plan for what I want to do with an education. I want to build a small agricultural cooperative in my region — something that gives local farmers access to fair markets. I have already spoken to four families who are interested. I need the business and leadership knowledge to make it real.",
+    "extra_activities": ["Helps family with small farming operation", "Self-studying basic accounting online"]
+  },
+  {
+    "name": "Timur Akhmetov",
+    "age": 20,
+    "essay": "I have a passion for technology and I believe in the power of artificial intelligence to transform industries. I have completed several online courses in machine learning and data science. I have also participated in hackathons where I developed innovative solutions to real-world problems. I am eager to apply my technical skills and leadership abilities to create impact in Kazakhstan. I am a fast learner and I adapt quickly to new environments. My goal is to become a tech entrepreneur who builds solutions that matter.",
+    "achievements": [
+      "Completed 5 Coursera certificates in ML/AI",
+      "1st place at a university hackathon",
+      "Founded a student tech club with 20 members"
+    ],
+    "motivation_letter": "As an aspiring entrepreneur and innovator, I am excited about the prospect of joining inVision U's prestigious program. The curriculum's emphasis on leadership development and entrepreneurship aligns perfectly with my career aspirations. I am committed to leveraging the resources and mentorship available at inVision U to develop my entrepreneurial venture in the AI space. I believe that my technical background, combined with the business acumen I will develop at inVision U, will enable me to create meaningful impact. I look forward to contributing to the vibrant community and collaborative culture at inVision U.",
+    "extra_activities": ["Online hackathon participant", "Follows tech news and podcasts"]
+  },
+  {
+    "name": "Madina Ospanova",
+    "age": 18,
+    "essay": "I grew up in Shymkent in a family that ran a small tea shop. When I was 15, my father had a health crisis and could not work for eight months. Without being asked, I took over managing the shop's suppliers and cash flow while continuing school. I made mistakes — I overpaid one supplier for three months before I noticed — but I learned faster than I ever had in a classroom. The shop survived. More importantly, I realised I actually enjoy the problem-solving and people-management side of running a business. I now want to understand why some small businesses survive crises and others do not, and eventually build something that helps them.",
+    "achievements": [
+      "Managed family business operations for 8 months during father's illness",
+      "Graduated top 5% of class despite that period",
+      "Currently saving to fund her own university application process"
+    ],
+    "motivation_letter": "I am not applying to inVision U because it is prestigious — I am applying because it is the only place I have found that seems to care about the same questions I do. Why do some people in difficult circumstances build things and others do not? What is the difference between someone who leads and someone who follows? I do not have all the answers, but I have spent three years thinking about them through lived experience rather than textbooks. I want a place that will push my thinking, give me frameworks for what I already know intuitively, and connect me with people who are trying to answer the same questions.",
+    "extra_activities": ["Informally mentors two younger students on business basics", "Reads business case studies independently"]
+  }
+]

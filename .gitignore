@@ -1,0 +1,15 @@
+.env
+CLAUDE.md
+.claude/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+dist/
+*.egg-info/
+.venv/
+venv/
+node_modules/
+.next/
+*.db
+*.sqlite
