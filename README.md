@@ -12,17 +12,19 @@ The system scores candidates across 5 dimensions using an LLM and returns struct
 # 1. Clone and install
 git clone <repo-url>
 cd invision
-pip install -e .
+uv sync
 
 # 2. Set your API key
 cp .env.example .env
 # Edit .env and add your GROQ_API_KEY
 
 # 3. Run the API
-uvicorn backend.main:app --reload
+uv run uvicorn backend.main:app --reload
 # API is now at http://localhost:8000
 # Docs at http://localhost:8000/docs
 ```
+
+> **No uv?** Install it with `curl -Ls https://astral.sh/uv/install.sh | sh`, or use `python3 -m venv .venv && source .venv/bin/activate && pip install -e .`
 
 ## API Usage
 
